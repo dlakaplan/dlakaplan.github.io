@@ -1,0 +1,6 @@
+\documentclass[12pt]{article}
+\usepackage{lab}
+
+\renewcommand{\labnumber}{4a}
+\begin{document}
+\titleblock{A More Rounded View of the Earth}{Discovery 0.1}

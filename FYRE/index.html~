@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="Content-Type">
+  <title>FYRE</title>
+</head>
+<body>
+<h1 style="text-align: center;">First Year Research Experience (Phys 194): Clocking Dead Stars with Radio Telescopes
+<br>
+</h1>
+<div style="text-align: center;">
+<h2>Fall 2017, David Kaplan, Joe Swiggum</h2>
+</div>
+<br>
+<br>
+<span style="font-weight: bold;">Lectures (PHYS 122):</span>
+Monday, 1p-2:15p; Wednesday, 1p-2:50p.&nbsp; Attendance and participation at lectures is required.<br>
+<br>
+<span style="font-weight: bold;">Lecturers:</span>
+<ul>
+  <li>Contact both lecturers: <a href="mailto:astro-fyre-instruct@uwm.edu">astro-fyre-instruct@uwm.edu</a></li>
+  <li>Prof. David Kaplan
+      <ul>
+	<li>Office: KEN 4075</li>
+	<li>Office hours: Tuesday 9am-10am, or by arrangement (please stop
+	    by or email)</li>
+	<li>Email: <a href="mailto:kaplan@uwm.edu">kaplan@uwm.edu</a></li>
+	<li>Phone: 414-229-4971<br>
+	</li>
+      </ul>
+  </li>
+  <li>Dr. Joe Swiggum
+      <ul>
+	<li>Office: KEN 4095</li>
+	<li>Office hours: Thursday 10am-11am, Friday 10am-11am, or by arrangement (please stop
+	    by or email)</li>
+	<li>Email: <a href="mailto:swiggumj@uwm.edu">swiggumj@uwm.edu</a></li>
+	<li>Phone: 414-229-6360<br>
+	</li>
+      </ul>
+  </li>
+</ul>
+<br>
+<span style="font-weight: bold;">Course Description</span>:
+This is a research-driven course designed to introduce students to
+current topics and methodologies in astrophysics research.  Students
+will:
+<ul>
+<li>Learn background material on pulsars and radio astronomy</li>
+<li>Learn introductory Unix usage and python programming</li>
+<li>Learn to conduct observations using the Green Bank Telescope, one of the world's premier radio telescopes</li>
+<li>Participate in small groups to adopt and completely "solve" a pulsar, determining all of the relevant physical information and placing it into the context of the larger population</li>
+<li>Work as a class to "solve" a binary pulsar, which has the potential to be significantly more interesting but which is much rarer and requires new concepts and techniques</li>
+<li>Write proposals for new telescope time in small groups, which will be judged by an external panel of collaborators.  The best proposals may be awarded time on the Green Bank Telescope</li>
+
+</ul>
+<span style="font-weight: bold;">Course Website:</span> <a
+ href="http://www.gravity.phys.uwm.edu/%7Ekaplan/FYRE/">http://www.gravity.phys.uwm.edu/~kaplan/FYRE/</a>
+(this page)<br>
+Lecture notes, reading assignments, and problem sets will be posted
+there.<br>
+Programming basics will be done through <a
+href="https://groklearning.com">https://groklearning.com</a>.  Support
+with GROK is via <a href="mailto:support@groklearning.com">support@groklearning.com</a><br>
+
+<br>
+<span style="font-weight: bold;">Course Textbook: </span>None
+<br>
+<span style="font-weight: bold;">Evaluation</span>: <br>
+<ul>
+  <li>Problem sets (weekly): 10%; grade will be best 10 of 11 problem
+sets<br>
+  </li>
+  <li>Weekly in-class assignments: 50%</li>
+  <li>Participation: 20%</li>
+  <li>Final proposals and presentations (Friday, Dec 22
+      12:30pm-2:30pm): 20%.  </li>
+  <li>You are encouraged to discuss the problem sets with each other
+but are
+not allowed to copy each other.&nbsp; <br>
+  </li>
+  <li>The final projects will be done in groups
+  of 2.
+</ul>
+<span style="font-weight: bold;">Prerequisites</span>: basic physics
+(algebra-based).&nbsp; Students should have completed Physics 120 (or
+209), or have consent of the instructor.&nbsp; Math placement level B
+is required; knowledge of algebra, basic geometry, and basic
+trigonometry is assumed.<br>
+<br>
+<span style="font-weight: bold;">News:</span><br>
+<ol>
+  <!-- <li>First quiz available on D2L (Sep 3; due Sep 10)</li> -->
+</ol>
+<span style="font-weight: bold;">Handouts:</span><br>
+<ol>
+  <li><a href="Phys194_syllabus.pdf">Syllabus</a> (Aug 28,
+2017)</li>
+<li><a href="lectures.pdf">Lecture Notes</a> (Updated Oct 2,
+2017)</li>
+<li><a href="FYRE_Intro.pdf">Intro to radio astronomy and pulsars</a> (Updated September 11,
+    2017)</li>
+<!--   <li><a href="constants.pdf">Useful Constants</a> (Aug 28, -->
+<!-- 2017)</li> -->
+<!--   <li><a href="formulas.pdf">Useful Formulas</a> (Aug 28, -->
+<!-- 2017)</li> -->
+<!--   <li><a href="midterm_review.pdf">Midterm Review</a> (Oct 13, -->
+<!-- 2015)</li> -->
+<!--   <li><a href="ism.pdf">Interstellar Medium notes</a> (Oct 22, -->
+<!-- 2015)</li> -->
+<!--   <li><a href="starformation_pictures.pdf">Star formation pictures</a> (Oct 27, -->
+<!-- 2015)</li> -->
+<!--   <li><a href="pulsar_pics.pdf">Pulsar pictures</a> (Oct 29, -->
+<!-- 2015)</li> -->
+<!--   <li><a href="solarsystem.pdf">Solar System notes</a> (Nov 2, -->
+<!-- 2015)</li> -->
+<!--   <li><a href="final_review.pdf">Final Review</a> (Dec 10, -->
+<!-- 2015)</li> -->
+<li>Observing proposal examples:
+    <ol><li><a href="GBNCC2017_timing.pdf">GBNCC Timing</a></li>
+	<li><a href="AO_2016March03_DeCesar.pdf">Arecibo MSP
+	    Searching</a></li>
+	<li><a href="GBNCC_nulling.pdf">GBT Nulling</a></li>
+	    </ol></li>
+	<li><a href="Pulsar Timing Tasks.pdf">Timing tasks</a></li>
+	    
+      </ol>
+
+
+<span style="font-weight: bold;">In-Class Assignments:</span><br>
+<ol>
+  <li><a href="assignment1.pdf">Assignment 1</a></li>
+  <li><a href="assignment2.pdf">Assignment 2</a></li>
+  <li><a href="assignment3.pdf">Assignment 3</a></li>
+  <li><a href="assignment4.pdf">Assignment 4</a></li>
+  <li><a href="assignment5.pdf">Assignment 5</a>
+      <ol><li><a href="Orbit-Solver.html">Jacob's solution to
+	  Assignment 5</a>
+      </li></ol>	  
+  <li><a href="assignment6.pdf">Assignment 6</a></li>
+  <li><a href="assignment7.pdf">Assignment 7</a></li>
+  <li><a href="assignment8.pdf">Assignment 8</a></li>
+  </li>
+</ol>
+      
+      
+<span style="font-weight: bold;">Problem Sets:</span><br>
+<ol>
+ <li><a href="ps1.pdf">PS1</a> (Sep 6, 
+2017; due Sep 13, 2017)</li>
+<li><a href="ps2.pdf">PS2</a> (Sep 13,
+2017; due Sep 20, 2017)</li>
+<li><a href="ps3.pdf">PS3</a> (Sep 20,
+2017; due Sep 27, 2017)</li>
+  <li><a href="ps4.pdf">PS4</a> (Sep 27,
+2017; due Oct 4, 2017)</li> 
+<li><a href="ps5.pdf">PS5</a> (Oct 4, 
+2017; due Oct 11, 2017)</li> 
+<ul>
+  <li><a href="p_pdot_ps5.csv">P Pdot data for PS5</a> (Oct 4,
+      2017)</li>
+</ul>      
+<li><a href="ps6.pdf">PS6</a> (Oct 11,
+2017; due Oct 18/25, 2017)</li>
+<!--   <li><a href="ps7.pdf">PS7</a> (Nov 3, -->
+<!-- 2015; due Nov 10, 2015)</li> -->
+<!--   <li><a href="ps8.pdf">PS8</a> (Nov 10, -->
+<!-- 2015; due Nov 17, 2015)</li> -->
+<!--   <li><a href="ps9.pdf">PS9</a> (Nov 17, -->
+<!-- 2015; due Nov 24, 2015)</li> -->
+<!--   <li><a href="ps10.pdf">PS10</a> (Nov 24, -->
+<!-- 2015; due Dec 3, 2015)</li> -->
+<!--   <li><a href="ps11.pdf">PS11</a> (Dec 3, -->
+<!-- 2015; due Dec 10, 2015)</li> -->
+</ol>
+
+
+<span style="font-weight: bold;">Links:</span><br>
+<ol>
+<li><a
+    href="https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Centimetre–gram–second_system_of_units">CGS
+    Units</a></li>
+<li><a href="http://adsabs.harvard.edu/abstract_service.html">NASA
+    Astrophysics Data System Astronomy Query</a></li>
+<li><a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">ATNF
+    Pulsar Catalog</a></li>
+<li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/">Unix
+    tutorial</a></li>
+<li><a href="Unix_tutorial_1.pdf">Unix tutorial 1</a>, <a href="Unix_tutorial_2.pdf">Unix tutorial 2</a></li>
+<li><a
+    href="https://getintodevops.com/blog/how-the-hell-do-i-exit-a-beginners-guide-to-vim">Beginner's
+    guide to VIM</a></li>
+<li><a
+    href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=NANOGrav&libid=55b946da9a">ADS
+    Library for NANOGrav</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Radio_telescope">Wikipedia
+    list of radio telescopes</a></li>    
+</ol>
+</body>
+</html>

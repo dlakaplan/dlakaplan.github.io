@@ -1,0 +1,2 @@
+custom format:
+<li><a href="http://adsabs.harvard.edu/abs/%R">%>T</a> (%>3l %Y, %>q %>V, %p)</li>

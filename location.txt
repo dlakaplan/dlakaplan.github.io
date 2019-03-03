@@ -1,0 +1,5 @@
+The path is 
+
+rsync -aruvz  ./ pcdev2.phys.uwm.edu:public_html/
+#rsync -aruvz --delete ./ gc.phys.uwm.edu:public_html/
+

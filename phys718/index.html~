@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="Content-Type">
+  <title>phys718</title>
+</head>
+<body>
+<h1 style="text-align: center;">Physics 718: High Energy Astrophysics</h1>
+<div style="text-align: center;">
+<h2>Spring 2019, David Kaplan, John Friendman</h2>
+</div>
+<br>
+<br>
+<span style="font-weight: bold;">Lectures:</span>
+Monday/Wednesday 12:30pm-1:45pm, KIRC 1180
+Attendance and participation at lectures is required.<br>
+<br>
+<span style="font-weight: bold;">Lecturers:</span> <br>
+<ul>
+  <li>Prof. David Kaplan
+      <ul>
+	<li>Office: KIRC 4075</li>
+	<li>Office hours: by appointment</li>
+	<li>Email: <a href="mailto:kaplan@uwm.edu">kaplan@uwm.edu</a></li>
+	<li>Phone: 414-229-4971<br>
+	</li>
+      </ul></li>
+  <li>Prof. John Friedman
+      <ul>
+	<li>Office: KIRC 4189</li>
+	<li>Office hours: Tues/Thur 11am-12pm or by appointment</li>
+	<li>Email: <a href="mailto:friedman@uwm.edu">friedman@uwm.edu</a></li>
+	<li>Phone: 414-229-4476<br>
+	</li>
+      </ul></li>
+</ul>
+<br>
+<br>
+<span style="font-weight: bold;">Course Description</span>:
+This is a graduate-level class in high energy astrophysics, concentrating on compact objects (white dwarfs, black holes, and neutron stars).
+<br>
+<br>
+<span style="font-weight: bold;">Course Website:</span> <a
+ href="http://www.gravity.uwm.edu/%7Ekaplan/phys718/">http://www.gravity.uwm.edu/~kaplan/phys718/</a><br>
+Lecture notes, reading assignments, and problem sets will be posted
+there.<br>
+<br>
+<span style="font-weight: bold;">Course Textbook: </span><br>
+<a
+href="https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron-dp-0471873179/dp/0471873179/ref=mt_hardcover?_encoding=UTF8&me=&qid=">
+Black Holes, White Dwarfs, and Neutron Stars</a>, by Shapiro and
+Teukolsky (Wiley, 1983)<br>
+978-0471873174<br>
+$68<br>
+<p>
+We will also use a set of class notes and The Physics of Stars, by A. C. Phillips. 
+
+Additional books that might be useful:<br>
+<ul>
+<li>Accretion Power in Astrophysics, by Frank, King, & Raine</li>
+<li>High Energy Astrophysics, by Malcolm S. Longair</li>
+<li>An Introduction to Modern Astrophysics by Carroll & Ostlie</li>
+<li>Rotating Relativistic Stars by Friedman & Stergioulas</li> 
+<li>Gravitation (Misner, Thorne & Wheeler), General Relativity (Wald),
+    A First Course in General Relativity (Schutz), or Gravitation & Cosmology (Weinberg)</li>
+</ul>
+
+<br>
+<span style="font-weight: bold;">Resources</span>: <br>
+Much material will be related to the modern astrophysical
+  literature. You will need to read papers, and the usual place to
+  start is ADS:<br>
+<a href="http://adsabs.harvard.edu/abstract_service.html">http://adsabs.harvard.edu/abstract_service.html</a><br>
+or their newer interface:<br>
+<a href="https://ui.adsabs.harvard.edu//#">https://ui.adsabs.harvard.edu//#</a><br>
+You can search by author, title, keyword, object, etc. <br>
+
+After you find a paper you can click on the links to read it. Note
+  that some papers are published in journals that you cannot read from
+  home. Most modern papers, though, are also listed at:<br>
+<a href="https://arxiv.org ">https://arxiv.org</a><br>
+where you can read them for free. [Note that most papers will use cgs units. Be careful!] 
+<p>
+  
+<br>
+<span style="font-weight: bold;">Evaluation:</span> <br>
+<ul>
+  <li>Problem sets (roughly biweekly): 70%; lowest grade will be
+      dropped.  You are encouraged to discuss the problem sets with each other
+but are
+not allowed to copy each other.&nbsp; </li>
+  <li>Final Project: 30%.  The final project will entail a 1-page project proposal that is due on March 11 that must include expected sources, an in-class oral presentation (20 minutes), and a final written report.</li>
+
+</ul>
+
+<span style="font-weight: bold;">Handouts:</span><br>
+<ol>
+  <li><a href="phys718_syllabus.pdf">Syllabus</a></li>
+
+<li><a href="lectures.pdf">Lecture notes (2019 Jan 30)</a></li>
+</ol>      
+    <!-- </ol> -->
+<!-- <span style="font-weight: bold;">Problem Sets:</span><br> -->
+<!-- <ol> -->
+<!--   <li><a href="ps1.pdf">Problem Set 1</a> (due 13 Feb)</li> -->
+<!--   <li><a href="ps2.pdf">Problem Set 2</a> (due 27 Feb)</li> -->
+<!--   <li><a href="ps3.pdf">Problem Set 3</a> (due 13 Mar)</li> -->
+<!--   <li><a href="ps4.pdf">Problem Set 4</a> (due 3 Apr)</li> -->
+<!--   <li><a href="ps5.pdf">Problem Set 5</a> (due 17 Apr)</li> -->
+<!--   <li><a href="ps6.pdf">Problem Set 6</a> (due 1 May)</li> -->
+<!-- </ol> -->
+<!-- <span style="font-weight: bold;">Resources:</span><br> -->
+<!-- <ol> -->
+<!-- <li><a href="http://adsabs.harvard.edu/abs/2003ApJ...591..288H">Heger -->
+<!--     et al. (2003)</a></li> -->
+<!-- <li><a -->
+<!--     href="http://adsabs.harvard.edu/abs/2015ApJ...815...63A">Andrews -->
+<!--     et al. (2015)</a></li> -->
+<!-- <li><a -->
+<!--     href="http://adsabs.harvard.edu/abs/2014ARA%26A..52..487S">Smith (2014)</a></li> -->
+<!-- <li><a href="http://2sn.org/firststars/">First Stars</a></li> -->
+<!-- <li><a href="http://mesa.sourceforge.net/index.html">MESA</a></li> -->
+<!-- <li><a -->
+<!--     href="http://adsabs.harvard.edu/abs/2011ApJS..194...28K">Knigge -->
+<!--     et al. (2011)</a></li> -->
+<!-- <li><a -->
+<!--     href="http://adsabs.harvard.edu/abs/1981A%26A...100L...7V">Verbunt -->
+<!--     and Zwaan (1981)</a></li> -->
+<!-- <li><a -->
+<!--     href="http://www.jinaweb.org/html/movies.html">Nucleosynthesis -->
+<!--     and supernova movies</a></li> -->
+<!-- <li><a -->
+<!--     href="http://adsabs.harvard.edu/abs/2004RvMP...76.1143P">Review -->
+<!--     article on GRBs</a></li> -->
+<!-- <li><a href="https://en.wikipedia.org/wiki/Gamma-ray_burst#/media/File:BATSE_2704.jpg">Isotropic GRBs from BATSE</a></li> -->
+<!-- <li><a -->
+<!--     href="https://en.wikipedia.org/wiki/Gamma-ray_burst#/media/File:GRB_BATSE_12lightcurves.png">GRB lightcurves</a></li> -->
+<!-- <li><a -->
+<!--     href="https://imagine.gsfc.nasa.gov/Images/science/burst_durations_labelled.jpg">GRB -->
+<!--     duration distribution</a></li> -->
+<!-- <li><a -->
+<!--     href="https://ned.ipac.caltech.edu/level5/March04/Piran/Figures/figure4.jpg">GRB -->
+<!--     duration and hardness distribution</a></li> -->
+<!-- <li><a -->
+<!--     href="http://www.fe.infn.it/~guidorzi/doktorthese/img60.png">GRB -->
+<!--     energetics</a> from Frail et al. (2001)</li> -->
+<!-- <li><a -->
+<!--     href="http://www.isdc.unige.ch/integral/images/medium/SGRflare.png">SGR -->
+<!--     1806-20 giant flare</a></li> -->
+<!-- <li><a href="http://adsabs.harvard.edu/abstract_service.html">ADS</a></li> -->
+<!-- </ol> -->
+      
+      
+</body>
+</html>
